@@ -18,7 +18,7 @@ We are an official LASA club, and you can join us by participating on Mondays du
 - **Sponsor:** Mr. Word
     - **President:** Carson Lackey
         - **Vice President:** [Niamh Catterall](mailto:niamhcatterall@gmail.com)
-            - **Archduke of Marketing:** Niamh Catterall
+            - **Marketing Lead:** Niamh Catterall
             - **Website Leads:** Ian Hawthorne and [Matthew Robson](mailto:matt.robson08@gmail.com)
             - **Data Analysis Leads:** Traver Laudadio and Victoria Khazhinsky
             - **Survey Lead:** Niamh Catterall
