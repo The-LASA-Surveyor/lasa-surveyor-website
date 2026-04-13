@@ -2,7 +2,7 @@
 
 <https://lasasurveyor.org>
 
-Maintained by: Rachit Kakkar, Maxim Rebguns
+Maintained by: Matthew Robson, Ian Hawthorne
 
 Code for the website of LASA Surveyor. The website is made with the
 [Hugo static site generator](https://gohugo.io) with plain HTML/SCSS.
