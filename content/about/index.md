@@ -11,15 +11,15 @@ year, and analyze the results, which are then published here.
 
 We are an official LASA club, and you can join us by participating on Mondays during lunch in Mr. Word's room.
 
-**Questions? Comments? Contact <niamh@lasasurveyor.org>**
+**Questions? Comments? Contact <niamhcatterall@gmail.com>**
 
 ## Organizational structure 2025--2026
 
 - **Sponsor:** Mr. Word
     - **President:** Carson Lackey
-        - **Vice President:** [Niamh Catterall](mailto:niamh@lasasurveyor.org)
-            - **Archduke of Marketing:** Niamh Catterall (Acting)
-            - **Website Leads:** Ian Hawthorne and Matthew Robson
+        - **Vice President:** [Niamh Catterall](mailto:niamhcatterall@gmail.com)
+            - **Archduke of Marketing:** Niamh Catterall
+            - **Website Leads:** Ian Hawthorne and [Matthew Robson](mailto:matt.robson08@gmail.com)
             - **Data Analysis Leads:** Traver Laudadio and Victoria Khazhinsky
             - **Survey Lead:** Niamh Catterall
 
